@@ -1,0 +1,162 @@
+.hello {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 5%;
+  height: 300px;
+}
+.intro {
+  background-color: whitesmoke;
+  border: 2px solid white;
+}
+#highlight {
+  color: orangered;
+}
+.half {
+  font-size: 15px;
+}
+p {
+  font-family: sans-serif;
+}
+#passion h1 {
+  background: linear-gradient(#ff00007d, #00801c9c, #ffff00c2);
+  padding: 50px;
+  text-align: center;
+  font-size: 40px;
+  color: hotpink;
+}
+.skills {
+  background: linear-gradient(#cddc39ba, #ffff00c7), url("images.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.goal {
+  width: 40%;
+  padding-left: 5%;
+  margin-left: 20px;
+  float: left;
+  height: 100%;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+.goal img {
+    border: 10px solid green;
+    border-radius: 100%;
+}
+section {
+  height: 500px;
+  padding-bottom: 150px;
+  margin: 20px;
+}
+#align-center {
+  text-align: center;
+  font-size: 40px;
+  padding: 50px;
+}
+.color-red {
+  color: red;
+}
+.one-third {
+  width: 27%;
+  float: left;
+  padding: 15px;
+  border: 7px solid aquamarine;
+  margin: 15px;
+  height: 400px;
+  box-shadow: 10px 10px 30px gray ;
+  border-radius: 10px;
+  height: 80%;
+  background-color: white
+}
+.project {
+  background-color: whitesmoke;
+}
+#color-white {
+  color: blue;
+  font-size: 50px;
+  text-align: center;
+}
+.setup {
+  margin: 50px 100px;
+  position: relative;
+  color: white;
+}
+.left {
+  position: absolute;
+  left: 150px;
+  margin-top: 10px;
+  color: white;
+}
+.right {
+  position: static;
+  right: 300px;
+  color: white;
+}
+.ending {
+  background-color: seashell;
+}
+.contact-info {
+  text-align: center;
+  font-size: 30px;
+}
+a {
+  text-decoration: none;
+}
+small {
+  font-size: 15px;
+}
+.btn {
+  background-color: dodgerblue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.btn:hover {
+  background-color: royalblue;
+}
+h1 {
+  font-family: "Roboto Mono", monospace;
+}
+h2 {
+  font-family: "Playfair Display", serif;
+}
+.link-button {
+  text-decoration: none;
+  background: linear-gradient(45deg, lightsalmon, tomato);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+#mar-top {
+  margin-top: 50px;
+}
+.exact {
+  float: left;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+.project img {
+    border: 5px solid aliceblue;
+    border-radius: 5px;
+}
